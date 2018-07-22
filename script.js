@@ -5,3 +5,6 @@ function a(){
 function b(){
 return "b";
 }
+function c(){
+return "c";
+}
